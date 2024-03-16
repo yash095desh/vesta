@@ -1,0 +1,16 @@
+.chart-wrapper{
+    margin: 20px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.chart{
+    padding: 20px;
+    background: #f3f3f3;
+    border-radius: 12px;
+}
+
+.chart-wrapper p span{
+    font-weight: 600;
+}
